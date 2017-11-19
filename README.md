@@ -1,0 +1,2 @@
+# Detecting_Implicit_Collaboration_Patterns_Implementation
+Detecting Implicit Collaboration Patterns Implentation on Pharo

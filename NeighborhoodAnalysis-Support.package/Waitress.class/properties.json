@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeighborhoodAnalysis-Support-MenuExample",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menuComponent"
+	],
+	"name" : "Waitress",
+	"type" : "normal"
+}

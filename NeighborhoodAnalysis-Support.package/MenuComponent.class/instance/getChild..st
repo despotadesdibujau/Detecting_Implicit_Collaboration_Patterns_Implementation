@@ -1,0 +1,3 @@
+private
+getChild: arg1
+	

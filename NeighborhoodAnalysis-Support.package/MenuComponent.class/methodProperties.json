@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"isVegetarian" : "",
+		"price" : "",
+		"getChild:" : "",
+		"description" : "",
+		"print" : "",
+		"add:" : "",
+		"remove:" : "",
+		"initialize" : "",
+		"getName" : "",
+		"initializeNamed:indicatingIsVegetarian:with:" : ""
+	},
+	"class" : {
+		"named:indicatingIsVegetarian:with:" : ""
+	}
+}

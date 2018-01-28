@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeighborhoodAnalysis-Support-MenuExample",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"price",
+		"childs",
+		"isVegetarian",
+		"description"
+	],
+	"name" : "MenuComponent",
+	"type" : "normal"
+}
